@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/KnowledgeSpace/DesignTimeBuild
+/.vs/KnowledgeSpace/DesignTimeBuild/.dtbcache.v2
+/.vs/KnowledgeSpace/FileContentIndex
+/.vs/KnowledgeSpace/FileContentIndex/3f05d152-7a3f-44e3-96ce-53ea6b789654.vsidx
+/.vs/KnowledgeSpace/v17
+/.vs/KnowledgeSpace/v17/.futdcache.v2
+/.vs/KnowledgeSpace/v17/.suo
